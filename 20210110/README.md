@@ -1,6 +1,6 @@
-## 📆 2020-01-10 TIL
+## 📆 2021-01-10 TIL
 
-### 🚀 내일 할 일
+### 📈 어제의 계획이 예상대로 진행됐나요?
 - [x] 객체지향의 사실과 오해 [Chapter 3 읽고 정리](https://github.com/saseungmin/reading_books_record_repository/pull/19)하기
   - Chapter 3: 타입과 추상화를 읽었다.
 - [x] 이력서 수정하기
