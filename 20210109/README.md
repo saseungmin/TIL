@@ -1,4 +1,4 @@
-## 📆 2020-01-09 TIL
+## 📆 2021-01-09 TIL
 
 ### 📈 어제의 계획이 예상대로 진행됐나요?
 - [x] 객체지향의 사실과 오해 [Chapter 2 읽고 정리](https://github.com/saseungmin/reading_books_record_repository/pull/17)하기
