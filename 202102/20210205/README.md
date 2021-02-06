@@ -1,12 +1,12 @@
 ## 📆 2021-02-05(금) TIL
 
 ### 📈 어제의 계획이 예상대로 진행됐나요?
-- [ ] 개인 프로젝트 진행(스터디 후기 😓)
+- [x] 개인 프로젝트 진행(스터디 후기 😓)
   - 스터디 후기에 대한 진행은 안했지만, 오늘 리팩토링을 하였다.
   - `lodash`를 적용하였다.
   - 문자열로 되어있던 정보? 내용?들을 상수로 묶어서 `import` 시켰다.
   - [PR Link](https://github.com/CodeSoom/ConStu/pull/154)
-- Recoil를 사용한 ToDo 앱 만들기 진행하기
+- [x] Recoil를 사용한 ToDo 앱 만들기 진행하기
   - 오늘 간단한 작업 진행
   - 리팩토링을 하였다.
   - [PR Link](https://github.com/saseungmin/Recoil_ToDo/pull/11)
