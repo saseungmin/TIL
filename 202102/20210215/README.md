@@ -1,6 +1,6 @@
 ## 📆 2021-02-15(월) TIL
 
-### 🚀 내일 할 일
+### 📈 어제의 계획이 예상대로 진행됐나요?
 - [x] 알고리즘 공부
   - 인프런 알고리즘 강의 문제 5문제를 풀었다. ([PR Link](https://github.com/saseungmin/daily_coding_dojo/pull/1))
 - [x] Recoil를 사용한 ToDo 앱 만들기 진행하기 (반응형 구현)
