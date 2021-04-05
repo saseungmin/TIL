@@ -1,6 +1,6 @@
 ## 📆 2021-04-04(일) TIL
 
-### 🚀 내일 할 일
+### 📈 어제의 계획이 예상대로 진행됐나요?
 - [x] 알고리즘 section 7 풀기
   - [3문제 풀었다.](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7)
   - 🤔 Least Recently Used, 장난꾸러기 현수, 좌표 정렬

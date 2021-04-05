@@ -1,6 +1,6 @@
 ## 📆 2021-04-03(토) TIL
 
-### 🚀 내일 할 일
+### 📈 어제의 계획이 예상대로 진행됐나요?
 - [x] 알고리즘 section 7 풀기
   - 버블 정렬, special sort, 삽입 정렬 세 문제를 풀었다.
   - [Link](https://github.com/saseungmin/daily_coding_dojo/tree/master/inflearn_algorism/section7)

@@ -1,6 +1,6 @@
 ## 📆 2021-04-02(금) TIL
 
-### 🚀 내일 할 일
+### 📈 어제의 계획이 예상대로 진행됐나요?
 - [ ] 알고리즘 section 7 풀기
 - [x] Recoil를 사용한 ToDo 앱 만들기 진행하기 (Theme 설정)
   - Dark 모드를 만들었다. ([PR Link](https://github.com/saseungmin/Recoil_ToDo/pull/82))
