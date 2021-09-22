@@ -2,7 +2,7 @@
 
 ### 📈 어제의 계획이 예상대로 진행됐나요?
 - [x] ReScript ToDo 앱 차근차근 봐보기
-  - [할 일을 완료, 미완료, 전체 상태에 따라 할 일 목록을 볼 수 있게하라 PR](https://github.com/saseungmin/ReScript_ToDo/pull/18)
+  - [등록된 할 일을 수정할 수 있게 하라 PR](https://github.com/saseungmin/ReScript_ToDo/pull/22)
 - [ ] 블로그에 이직 후기 회고 작성
 
 ### 🦄 이번주 목표 진행사항은요? (오늘 조금이라도 진행했으면 체크)
