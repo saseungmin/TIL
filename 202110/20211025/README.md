@@ -1,4 +1,4 @@
-## 📆 2021-10-22(금) TIL
+## 📆 2021-10-25(월) TIL
 
 ### 📈 어제의 계획이 예상대로 진행됐나요?
 - [x] [스터디 참여](https://github.com/Fortuna-Study/summarize-books/tree/main/clean-code/week_1/harang)
