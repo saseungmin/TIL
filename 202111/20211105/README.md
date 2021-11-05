@@ -2,7 +2,7 @@
 
 ### 📈 어제의 계획이 예상대로 진행됐나요?
 - [클린 코드 4장](https://github.com/saseungmin/reading_books_record_repository/tree/master/summarize_books_in_markdown/clean-code/Chapter%204)
-
+- [DevEvent PR](https://github.com/brave-people/Dev-Event/pull/135)
 ### 🦄 이번주 목표 진행사항은요? (오늘 조금이라도 진행했으면 체크)
 - [x] 클린 코드 6~8장 읽기 및 스터디 참여
 - ~~스칼라로 배우는 함수형 프로그래밍 1 ~ 2장~~
