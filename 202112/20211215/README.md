@@ -16,8 +16,9 @@
 
 ### 🤔 공부하면서 배운것이 있다면?
 - https://github.com/vercel/turborepo
+- https://github.com/reactwg/server-components
 
-#### 문제되었던 사항
+#### Yarn berry를 사용한 문제되었던 사항 (Next.js and react-hook-form)
 
 1. yarn berry를 사용하여 Next.js 12.0.5 버전 이상을 사용했을 때 next dev, next build가 깨지는 현상
 - https://github.com/vercel/next.js/issues/32115
